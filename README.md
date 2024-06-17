@@ -21,7 +21,7 @@ Projeto desenvolvido com intuito de fazer o Clone da UI (user interface - interf
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com/downloads), [NodeJs](https://nodejs.org/en/download/), [NPX](https://www.npmjs.com/package/npx) e o como opcional o [Yarn](https://classic.yarnpkg.com/en/docs/install/). É recomendado que se tenha um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/Download)!
+[Git](https://git-scm.com/downloads), [NodeJs](https://nodejs.org/en/download/), [NPX](https://www.npmjs.com/package/npx) e como opcional o [Yarn](https://classic.yarnpkg.com/en/docs/install/). É recomendado que se tenha um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/Download)!
 
 
 #### Rodando o projeto
